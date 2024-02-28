@@ -1,0 +1,13 @@
+{
+    "initial_budget": 1000.0,
+    "expenses": [
+        {
+            "description": "sugar",
+            "amount": 22.34
+        },
+        {
+            "description": "toothpaste",
+            "amount": 56.45
+        }
+    ]
+}

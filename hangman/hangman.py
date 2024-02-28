@@ -11,6 +11,8 @@ word_display = ['_' for _ in chosen_word] # list comprehension
 # Attempts
 attempts = 8
 
+print("Welcome to the Hangman Game! Have Fun!")
+
 while attempts > 0 and '_' in word_display:
     print(f"\n{' '.join(word_display)}")
     # Player's guess
